@@ -1,0 +1,2 @@
+python - igraph >= 0.7
+numpy >= 1.15
